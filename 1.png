@@ -1,1 +1,14 @@
 
+-color-workflow-card-bg: var(--bgColor-muted);
+        --color-workflow-card-header-shadow: rgba(27, 31, 35, 0.04);
+        --color-bg-discussions-row-emoji-box: #57606a;
+        --color-notifications-row-read-bg: var(--bgColor-default);
+        --color-notifications-row-bg: var(--bgColor-muted);
+        --color-calendar-halloween-graph-day-L1-bg: #631c03;
+        --color-calendar-halloween-graph-day-L2-bg: #bd561d;
+        --color-calendar-halloween-graph-day-L3-bg: #fa7a18;
+        --color-calendar-halloween-graph-day-L4-bg: #fddf68;
+        --color-calendar-winter-graph-day-L1-bg: #0A3069;
+        --color-calendar-winter-graph-day-L2-bg: #0969DA;
+        --color-calendar-winter-graph-day-L3-bg: #54AEFF;
+        --color-calendar-wi
